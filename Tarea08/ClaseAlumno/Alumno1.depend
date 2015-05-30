@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1432469910 source:d:\proyectoscode\alumno1\alumnocpp.cpp
+	<iostream>
+	"alumnoh.h"
+
+1432469192 d:\proyectoscode\alumno1\alumnoh.h
+	<iostream>
+
+1432470062 source:d:\proyectoscode\alumno1\main.cpp
+	<iostream>
+	"alumnoh.h"
+

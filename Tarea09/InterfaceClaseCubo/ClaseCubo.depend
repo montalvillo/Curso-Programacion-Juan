@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1385320478 source:d:\proyectoscode\clasecubo\main.cpp
+	<iostream>
+
+1432840305 source:d:\proyectoscode\clasecubo\cubocpp.cpp
+	"cuboh.h"
+
+1432840603 d:\proyectoscode\clasecubo\cuboh.h
+
