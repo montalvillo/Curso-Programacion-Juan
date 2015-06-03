@@ -2,12 +2,12 @@
 <CodeBlocks_project_file>
 	<FileVersion major="1" minor="6" />
 	<Project>
-		<Option title="ClaseCubo" />
+		<Option title="FigurasGeometricas4clases" />
 		<Option pch_mode="2" />
 		<Option compiler="gcc" />
 		<Build>
 			<Target title="Debug">
-				<Option output="bin/Debug/ClaseCubo" prefix_auto="1" extension_auto="1" />
+				<Option output="bin/Debug/FigurasGeometricas4clases" prefix_auto="1" extension_auto="1" />
 				<Option object_output="obj/Debug/" />
 				<Option type="1" />
 				<Option compiler="gcc" />
@@ -16,7 +16,7 @@
 				</Compiler>
 			</Target>
 			<Target title="Release">
-				<Option output="bin/Release/ClaseCubo" prefix_auto="1" extension_auto="1" />
+				<Option output="bin/Release/FigurasGeometricas4clases" prefix_auto="1" extension_auto="1" />
 				<Option object_output="obj/Release/" />
 				<Option type="1" />
 				<Option compiler="gcc" />
@@ -32,13 +32,20 @@
 			<Add option="-Wall" />
 			<Add option="-fexceptions" />
 		</Compiler>
-		<Unit filename="cubocpp.cpp" />
+		<Unit filename="cilindrocpp.cpp" />
+		<Unit filename="cilindroh.h" />
+		<Unit filename="conoccp.cpp" />
+		<Unit filename="conoh.h" />
+		<Unit filename="cuboh.cpp" />
 		<Unit filename="cuboh.h" />
 		<Unit filename="main.cpp" />
+		<Unit filename="piramidecpp.cpp" />
+		<Unit filename="piramideh.h" />
 		<Extensions>
 			<code_completion />
 			<envvars />
 			<debugger />
+			<lib_finder disable_auto="1" />
 		</Extensions>
 	</Project>
 </CodeBlocks_project_file>
