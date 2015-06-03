@@ -4,17 +4,17 @@
 
 
 
-CONO::CONO (float xRadio, float xAltura,float xGeneratriz){
+Cono::Cono(float xRadio, float xAltura,float xGeneratriz){
 radio = xRadio, altura = xAltura ,generatriz = xGeneratriz;}
 
-CONO::~CONO(){}
+Cono::~Cono(){}
 
 
-float CONO::calcularArea(){
+float Cono::calcularArea(){
 
 return (Pi * (generatriz * radio)) + (Pi * (radio * radio)) ;}
 
-float CONO::calcularVolumen (){
+float Cono::calcularVolumen (){
 
 return (Pi*(radio * radio) * (altura))/3;}
 

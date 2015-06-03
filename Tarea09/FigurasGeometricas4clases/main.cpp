@@ -37,13 +37,13 @@ cout << "El area de la piramide es de " << miPiramide.areaPiramide()<< " cm2" <<
  cout << "Y su volumen es de " << miPiramide.volumenPiramide()<< " cm3" << endl <<endl;
 
 
-CONO miCONO(12,3,15);
+Cono miCono(12,3,15);
 
-miCONO.calcularArea();
+miCono.calcularArea();
 
-cout << " El area del cono es de " << miCONO.calcularArea()<<" cm3"<< endl;
+cout << " El area del cono es de " << miCono.calcularArea()<<" cm3"<< endl;
 
-cout << "Y su volumen es de " << miCONO.calcularVolumen() << " cm3" << endl;
+cout << "Y su volumen es de " << miCono.calcularVolumen() << " cm3" << endl;
 
 
 

@@ -2,12 +2,12 @@
 #define CONOH_H_INCLUDED
 
 
-class CONO{
+class Cono{
 float radio, altura, generatriz;
 
 public:
-    CONO (float xRadio,float xAltura, float xGeneratriz);
-    ~CONO();
+    Cono (float xRadio,float xAltura, float xGeneratriz);
+    ~Cono();
 
     void asignarRadio();
     void asignarAltura();
