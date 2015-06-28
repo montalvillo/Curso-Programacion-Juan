@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1435086554 source:d:\proyectoscode\tema 10_puntopantalla\main.cpp
+	<iostream>
+	"puntopantallah.h"
+
+1435086617 source:d:\proyectoscode\tema 10_puntopantalla\puntopantallccp.cpp
+	"puntopantallah.h"
+
+1435485008 d:\proyectoscode\tema 10_puntopantalla\puntopantallah.h
+	<iostream>
+
